@@ -1,4 +1,4 @@
-*Highly Available Medical Web Application (Deployed on Azure)*
+Highly Available Medical Web Application (Deployed on Azure)
 
 This project is a high-availability medical web application deployed on Microsoft Azure with a focus on scalability, reliability, performance, and traffic management.
 The application helps users access medical services without downtime, even during heavy traffic or high user load.
